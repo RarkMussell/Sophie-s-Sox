@@ -1,0 +1,49 @@
+.ourvalues{
+    background-color: white;
+    height:500px;
+    text-align: center;
+}
+
+.outvaluest{
+    text-align: center;
+}
+
+.babiesandtoddlers{
+    background-color: #FFBBD8;
+    height: 500px;
+}
+
+.children{
+    background-color: #9FEBFA;
+    height: 500px;
+}
+
+.adultunisex{
+    background-color: #FFE816;
+    height: 500px;
+}
+
+.footer{
+    background-color: #333333;
+    height: 100px;
+}
+
+.shop{
+background-image: url(images/shop.jpg);
+    background-size: cover;
+}
+
+.shopsection {
+    background-color: #9FEBFA;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.btn {
+
+}
+
+.footerwords{
+    color: white;
+    
+}
